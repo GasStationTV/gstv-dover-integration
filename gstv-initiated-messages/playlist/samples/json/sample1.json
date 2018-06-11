@@ -1,0 +1,134 @@
+{
+  "guid": "742c606d-024a-406c-935b-bfc2418b20ee",
+  "updatedOn": "2016-10-13 20:55:10.354",
+  "playlist": [
+    {
+      "siteId": "123456",
+      "banners": [
+        {
+          "filename": "prefueling_image.png",
+          "start": "2016-10-14",
+          "end": "2016-10-30",
+          "type": "prefueling"
+        },
+        {
+          "filename": "postfueling_image.png",
+          "start": "2016-10-15",
+          "end": "2016-10-30",
+          "type": "postfueling"
+        }
+      ],
+      "schedules": [
+        {
+          "segmentId": "5800045ed69dc50e00097d7e",
+          "date": "2016-10-14",
+          "loops": [
+            {
+              "loopNumber": 1,
+              "assets": [
+                {
+                  "filename": "intro.webm",
+                  "type": "brandedMessaging",
+                  "dayparts": [
+                    {
+                      "start": "07:00",
+                      "end": "11:00"
+                    },
+                    {
+                      "start": "13:00",
+                      "end": "20:00"
+                    }
+                  ]
+                },
+                {
+                  "filename": "CNN.webm",
+                  "type": "programming",
+                  "dayparts": [
+                    {
+                      "start": "08:00",
+                      "end": "12:00"
+                    }
+                  ]
+                },
+                {
+                  "filename": "CNN2.webm",
+                  "type": "programming",
+                  "dayparts": [
+                    {
+                      "start": "13:00",
+                      "end": "17:00"
+                    }
+                  ]
+                },
+                {
+                  "filename": "ad1.webm",
+                  "type": "advertising",
+                  "start": "2016-10-14",
+                  "end": "2016-10-20",
+                  "tiNumber": "124"
+                },
+                {
+                  "filename": "bumper1.webm",
+                  "type": "brandedMessaging"
+                },
+                {
+                  "filename": "rpa1.webm",
+                  "type": "rpa",
+                  "start": "2016-10-14",
+                  "end": "2016-10-21",
+                  "tiNumber": "432"
+                },
+                {
+                  "filename": "bumper1.webm",
+                  "type": "brandedMessaging"
+                }
+              ]
+            },
+            {
+              "loopNumber": 2,
+              "assets": [
+                {
+                  "filename": "seasonal_intro.webm",
+                  "type": "brandedMessaging"
+                },
+                {
+                  "filename": "BLOOMBERG.webm",
+                  "type": "programming"
+                },
+                {
+                  "filename": "Accuweather.webm",
+                  "type": "programming"
+                },
+                {
+                  "filename": "CNET.webm",
+                  "type": "programming"
+                }
+              ]
+            },
+            {
+              "loopNumber": 3,
+              "assets": [
+                {
+                  "filename": "seasonal_intro.webm",
+                  "type": "brandedMessaging"
+                },
+                {
+                  "filename": "BLOOMBERG.webm",
+                  "type": "programming"
+                },
+                {
+                  "filename": "Accuweather.webm",
+                  "type": "programming"
+                },
+                {
+                  "filename": "CNET.webm",
+                  "type": "programming"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "configuration": [
+    {
+      "volume": [
+        {
+          "id": "586fd7b6de89225646533df5",
+          "level": 60,
+          "startTime": "08:00"
+        },
+        {
+          "id": "586fd7b6de89225646533df4",
+          "level": 40,
+          "startTime": "20:00"
+        }
+      ],
+      "evergreen": [
+        {
+          "id": "586fd7b6de89225646533df3",
+          "swapFilename": "Programming_GSTVESPNSWAP.webm",
+          "expiryHours": 25,
+          "filename": "Programming-GSTVESPN.webm"
+        },
+        {
+          "id": "586fd7b6de89225646533df2",
+          "swapFilename": "Programming-HLN_Weekday.webm",
+          "expiryHours": 13,
+          "filename": "Programming_HLNSWAP.webm"
+        }
+      ],
+      "shutdownHours": 120
+    }
+  ],
+  "updatedOn":"2017-06-02 10:57:13.980",
+  "guid":"f066d743-9eec-4055-8aa4-a0ed7b03dca8"
+}
