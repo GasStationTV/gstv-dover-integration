@@ -258,7 +258,7 @@
   "notificationType": "PLAYLIST_PULLED_BY_TERMINAL",
   "siteId": String,
   "status": "success",
-	"terminalId": String
+  "terminalId": String
 }
 ```
 
