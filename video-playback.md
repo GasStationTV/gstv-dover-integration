@@ -3,7 +3,6 @@
 The video playback system will allow for the following conditions:
 
 1. Playback will be at 30FPS
-1. One channel will exist. Assets for both the 5" and 12" model will be formatted as widescreen assets.
 1. When downloading an asset, the player will ensure that the asset has been successfully transferred in full  
 1. An asset may not play in every single rotation of the loop
 	1. There will be up to 24 variations to a loop
@@ -27,4 +26,3 @@ The video playback system will allow for the following conditions:
 	1. If a predefined evergreen asset is not defined nothing will play
 		1. We would rather not include AccuWeather than play an out of date forecast.
 	1. The evergreen assets will be downloaded and stored as soon as possible - not when necessitated by TTL
-

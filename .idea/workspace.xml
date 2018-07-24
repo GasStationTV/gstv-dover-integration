@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c298b3a-c5d2-429a-be3f-fd6062934f51" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brand</find>
+      <find>invenco</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dover</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-barcode-missing.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-detail-missing.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-restriction-missing.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-title-missing.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-valid-from-missing.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/positive-coupons-multiple.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/positive-coupons-valid-parameters.json" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/configuration-network/configuration-network.md" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/configuration-site/configuration-site.md" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/media/media.md" />
+        <option value="$PROJECT_DIR$/gstv-initiated-messages/playlist/playlist.md" />
+        <option value="$PROJECT_DIR$/dover-initiated-messages/proof-of-play/proof-of-play.md" />
+        <option value="$PROJECT_DIR$/dover-initiated-messages/heartbeat/heartbeat.md" />
+        <option value="$PROJECT_DIR$/dover-initiated-messages/site-health/site-health.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="227" />
+    <option name="y" value="91" />
+    <option name="width" value="1604" />
+    <option name="height" value="953" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="dover-initiated-messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="dover-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="heartbeat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="dover-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="proof-of-play" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="dover-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="site-health" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration-network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration-network" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration-network" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration-network" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration-site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gstv-dover-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-dover-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="gstv-initiated-messages" type="462c0819:PsiDirectoryNode" />
+              <item name="playlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v4.4.0/bin/node" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c298b3a-c5d2-429a-be3f-fd6062934f51" name="Default" comment="" />
+      <created>1519672162237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519672162237</updated>
+      <workItem from="1519672163393" duration="707000" />
+      <workItem from="1528732099139" duration="1249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1956000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="227" y="91" width="1604" height="953" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22381546" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.30127463" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/positive-coupons-multiple.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/positive-coupons-valid-parameters.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2116">
+          <caret line="92" column="67" lean-forward="true" selection-start-line="92" selection-start-column="67" selection-end-line="92" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-barcode-missing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="49" selection-start-line="49" selection-end-line="49" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-detail-missing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-restriction-missing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-title-missing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/negative-coupon-valid-from-missing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="62" column="63" lean-forward="true" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/positive-coupons-valid-parameters.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="92" column="67" lean-forward="true" selection-start-line="92" selection-start-column="67" selection-end-line="92" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/tests/json/positive-coupons-multiple.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/configuration-site/configuration-site.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="147">
+            <caret line="271" column="117" selection-start-line="271" selection-start-column="117" selection-end-line="271" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/configuration-network/configuration-network.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="297" column="120" selection-start-line="297" selection-start-column="120" selection-end-line="297" selection-end-column="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/media/media.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="270" column="100" selection-start-line="270" selection-start-column="100" selection-end-line="270" selection-end-column="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstv-initiated-messages/playlist/playlist.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="148">
+            <caret line="670" column="107" selection-start-line="670" selection-start-column="107" selection-end-line="670" selection-end-column="107" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-playback.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dover-initiated-messages/proof-of-play/proof-of-play.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="93" column="106" selection-start-line="93" selection-start-column="106" selection-end-line="93" selection-end-column="106" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dover-initiated-messages/heartbeat/heartbeat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dover-initiated-messages/site-health/site-health.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
